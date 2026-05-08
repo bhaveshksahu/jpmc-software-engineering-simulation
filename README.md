@@ -3,11 +3,16 @@
 This repository contains my implementation of the technical tasks for the JPMorgan Chase & Co. Software Engineering Job Simulation hosted on Forage. The project involves working with Midas-Core, a system designed to handle real-time market data and internal transaction processing.
 The simulation provided hands-on experience with industry-standard backend technologies, focusing on how large-scale financial institutions manage asynchronous data streams and internal API services.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 ->Language: Java
+
 ->Framework: Spring Boot
+
 ->Messaging: Apache Kafka
+
 ->Database: H2 In-Memory Database
+
 ->Build Tool: Maven/Gradle
 
 🚀 Key Features & Task Implementation
